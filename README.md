@@ -31,8 +31,8 @@ Deeper documentation:
 ## Quickstart
 
 ```bash
-git clone https://github.com/git-bonda108/PMS.git
-cd PMS
+git clone https://github.com/git-bonda108/patient-intelligence-console.git
+cd patient-intelligence-console
 
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
